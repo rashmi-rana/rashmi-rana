@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me ranarashmi205@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+
 
