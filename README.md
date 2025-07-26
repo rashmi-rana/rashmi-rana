@@ -5,6 +5,9 @@
 👀 Passionate about Full Stack Web Development with a focus on clean, scalable code
 
 🌱 Continuously expanding my skills in Spring boot, Microservices, SQL, and modern back-end technologies
+
 🤝 Open to collaborating on Java-based and Full Stack projects
+
 📫 Reach me at: ranarashmi205@gmail.com
+
 🌐 Portfolio: rashmi-rana.github.io/Personal-Portfolio
