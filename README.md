@@ -16,6 +16,8 @@ Tools & Others: Git, GitHub, Postman, JWT, API Integration
 
 🌱 Currently strengthening my expertise in:
 
+Python Backend Development (FastAPI, async APIs, performance optimization)
+
 Spring Boot & Microservices
 
 Advanced SQL & Query Optimization
