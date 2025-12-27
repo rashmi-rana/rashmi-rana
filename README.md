@@ -3,9 +3,13 @@
 💼 Full Stack Developer with 1.5+ year of experience, currently working with Python (FastAPI) + React.js, and a strong foundation in Java Full Stack development.
 
 🛠️ Tech Stack & Skills
+
 Backend: Python (FastAPI), Java, Spring Boot, Spring MVC, REST APIs
+
 Frontend: React.js, Angular, Vue.js, HTML, CSS, JavaScript
+
 Database: MySQL, SQL
+
 Tools & Others: Git, GitHub, Postman, JWT, API Integration
 
 👀 Passionate about building clean, scalable, and maintainable web applications, with a strong focus on backend logic and API design.
